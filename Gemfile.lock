@@ -1,16 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    rjb (1.5.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  rjb
 
 RUBY VERSION
    ruby 2.4.1p111
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
